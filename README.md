@@ -12,7 +12,7 @@ In this project, I build a mini honey-net in Azure and ingest log sources from v
 
 ## Architecture Before Hardening / Security Controls
 
-![![image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/c1eafc16-49a1-499a-8e33-753fed924283)
+[![image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/c1eafc16-49a1-499a-8e33-753fed924283)
 
 
 ## Architecture After Hardening / Security Controls
@@ -35,17 +35,17 @@ For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL t
 
 ## Attack Maps Before Hardening / Security Controls
 
-!![image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/869ac6d4-121c-4d7c-a18d-906327d1e221)
+[image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/869ac6d4-121c-4d7c-a18d-906327d1e221)
 
 
 <br>
 
-!![image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/38880cc7-fa59-4234-85f9-6ffd0a0bc5bb)
+[image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/38880cc7-fa59-4234-85f9-6ffd0a0bc5bb)
 
 
 <br>
 
-!![image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/f12d4827-d390-42d7-83a5-fae98a7c3bd0)
+[image](https://github.com/Hugoatlist444/AZURE-SOC/assets/95655080/f12d4827-d390-42d7-83a5-fae98a7c3bd0)
 
 
 <br>
